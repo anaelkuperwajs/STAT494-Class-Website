@@ -1,12 +1,10 @@
 ---
-title: "index"
+title: "STAT 494 Class Website"
 author: "Anael Kuperwajs Cohen"
 date: "3/19/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Welcome to my website!
 
 

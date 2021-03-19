@@ -1,0 +1,6 @@
+navbar:
+  title: STAT494 Class Website
+  left:
+output:
+  html_document:
+  theme: flatly
