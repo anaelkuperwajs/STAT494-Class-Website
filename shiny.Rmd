@@ -1,0 +1,14 @@
+---
+title: "Shiny App"
+author: "Anael Kuperwajs Cohen"
+date: "4/1/2021"
+output: html_document
+---
+
+I made a Shiny App!
+
+The dataset in this app is called 'lending_club', which represents an American peer-to-peer lending company. I used stacking to generate a "super" predictor for the outcome Class (either good or bad). This shiny app allows you to input values for all the variables in the model, and see the predicted outcome! Enjoy!
+
+Shiny app link: https://anaelkuperwajs.shinyapps.io/STAT494-HW2-ShinyApp/
+
+Github link: https://github.com/anaelkuperwajs/STAT494-HW2-ShinyApp

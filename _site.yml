@@ -1,5 +1,10 @@
 navbar:
   title: STAT494 Class Website
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Shiny App"
+    href: shiny.html
 output:
   html_document:
     theme: flatly

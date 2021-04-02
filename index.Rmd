@@ -6,4 +6,5 @@ output: html_document
 
 Welcome to my website!
 
+Here I will add projects that I worked on for my Advanced Data Science in R class.
 
